@@ -167,14 +167,6 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 
 ---
 
-## 🌌 Philosophy
-
-> *“I chase clarity through curiosity — where AI, science, and innovation intersect.”*
-
-> *Every project is an experiment. Every day is iteration. Green squares are just a bonus.*
-
----
-
 ## 🌐 Connect
 
 <p align="left">
