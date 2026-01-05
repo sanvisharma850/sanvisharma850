@@ -98,7 +98,6 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" title="OpenCV" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" title="TensorFlow" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" title="PyTorch" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" title="Hugging Face" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
 </p>
