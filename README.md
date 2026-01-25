@@ -1,6 +1,3 @@
-<h1 align="center">
-#  Sanvi Sharma
-</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=9B5DE5&cursorColor=9B5DE5&vCenter=true&lines=Hi+I'm+Sanvi+Sharma!;AI+%7C+NLP+%7C+Quantum+Computing;Researcher+%7C+Innovator+%7C+Creator" />
