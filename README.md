@@ -1,5 +1,6 @@
-# 🌌 Sanvi Sharma
-
+<h1 align="center">
+#  Sanvi Sharma
+</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=750&height=70&duration=3200&color=9B5DE5&cursorColor=9B5DE5&vCenter=true&lines=Hi+I'm+Sanvi+Sharma!;AI+%7C+NLP+%7C+Quantum+Computing;Researcher+%7C+Innovator+%7C+Creator" />
@@ -9,21 +10,21 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-* 🎓 **B.Tech CSE @ MIT Bengaluru**
-* 🔍 Exploring **Ethical AI, NLP, Quantum Computing & Computer Vision**
-* 🧠 Research-focused with strong foundations in **ML, CV, and Generative AI**
-* 🧩 Passionate about solving real problems through tech, design, and science
-* 🤝 Former Intern at **Max Healthcare** (AI/CV) & **Adobe India**
-* 🏅 National-level project achievements across **AI, robotics, and mental wellness tech**
-* 📚 Executive Member of **ACM Student Chapter**
+* **B.Tech CSE @ MIT Bengaluru**
+* Exploring **Ethical AI, NLP, Quantum Computing & Computer Vision**
+* Research-focused with strong foundations in **ML, CV, and Generative AI**
+* Passionate about solving real problems through tech, design, and science
+* Former Intern at **Max Healthcare** (AI/CV) & **Adobe India**
+* National-level project achievements across **AI, robotics, and mental wellness tech**
+* Executive Member of **ACM Student Chapter**
 
 ---
 
-## 🧪 Featured Research & Innovation Projects
+## Featured Research & Innovation Projects
 
-### 🚦 IRIS — AI Assistive Device for the Visually Impaired
+### IRIS — AI Assistive Device for the Visually Impaired
 
 **TensorFlow • Python • Computer Vision • User Research**
 A wearable assistive-device prototype achieving **85% indoor obstacle detection accuracy** using object detection + haptic feedback.
@@ -32,7 +33,7 @@ A wearable assistive-device prototype achieving **85% indoor obstacle detection 
 
 ---
 
-### 🐠 DORI — AI-Enabled Robotic Fish
+### DORI — AI-Enabled Robotic Fish
 
 **Raspberry Pi • Robotics • Sensor Fusion**
 Ranked **Top 250/20,000+** in ATL Marathon, won **2nd prize** at Sustainable Innovators Science Expo. Designed a bio-inspired robotic fish using ML-powered navigation.
@@ -41,7 +42,7 @@ Ranked **Top 250/20,000+** in ATL Marathon, won **2nd prize** at Sustainable Inn
 
 ---
 
-### 🎥 Real-Time Motion Tracking with Gaussian Mixture Models (MoG)
+### Real-Time Motion Tracking with Gaussian Mixture Models (MoG)
 
 **OpenCV • NumPy • Statistical Modeling**
 Developed during Max Healthcare internship. Built a **3-GMM per pixel** foreground detection system with ~40% noise reduction.
@@ -50,7 +51,7 @@ Developed during Max Healthcare internship. Built a **3-GMM per pixel** foregrou
 
 ---
 
-### ✍️ GPT‑2 Text Generation App
+### GPT‑2 Text Generation App
 
 **Hugging Face • Transformers • Streamlit • NLP**
 Offline local text-generation app with adjustable temperature, top‑k, top‑p sampling.
@@ -59,7 +60,7 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 
 ---
 
-## 📦 Featured Project Cards
+## Featured Project Cards
 
 <p align="center">
 <a href="https://github.com/sanvisharma850/IRIS-AI-for-Blind">
@@ -81,7 +82,7 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Languages**
 
@@ -117,7 +118,7 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Apache_OpenOffice_logo.svg/1200px-Apache_OpenOffice_logo.svg.png" height="40" title="OpenOffice" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
 </p>
 
-### 🔮 **Currently Learning**
+### **Currently Learning**
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Qiskit-Logo.svg" height="40" title="Qiskit (Quantum Computing)" style="filter: drop-shadow(0 0 6px #9B5DE5);"/>
@@ -128,25 +129,25 @@ Offline local text-generation app with adjustable temperature, top‑k, top‑p 
 
 ---
 
-## 🏆 Certifications & Achievements
+## Certifications & Achievements
 
 ### Major Achievements
 
-* 🥇 **ATL Marathon – National Winner (Top 250/20,000+) (2024)**
-* 🥈 **Sustainable Innovators Science Exhibition – 2nd Position (2024)**
-* 🧪 **CBSE National Science Exhibition Finalist (2023–24)**
-* 🏅 **Adobe Student Ambassador – First Position (2023)**
+* **ATL Marathon – National Winner (Top 250/20,000+) (2024)**
+* **Sustainable Innovators Science Exhibition – 2nd Position (2024)**
+* **CBSE National Science Exhibition Finalist (2023–24)**
+* **Adobe Student Ambassador – First Position (2023)**
 
 ### Certifications
 
-* 🎓 **IIT Madras – AI & Data Science Internship (2024)**
-* 🎓 **IIT Delhi – Generative AI Workshop (2025)**
-* 🥇 General Studies Presentation – First Prize
+* **IIT Madras – AI & Data Science Internship (2024)**
+* **IIT Delhi – Generative AI Workshop (2025)**
+* General Studies Presentation – First Prize
 * Additional: Space Quiz, IOQM, GTSE, Financial Literacy
 
 ---
 
-## 📊 GitHub Metrics
+## GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanvisharma850&show_icons=true&theme=radical" height="160"/>
